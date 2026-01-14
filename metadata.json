@@ -1,0 +1,8 @@
+{
+  "name": "Almacén Inteligente",
+  "description": "Una aplicación simple y potente para almacenes uruguayos. Controlá tu stock, registrá ventas por voz o fotos y entendé tu ganancia diaria al instante.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
